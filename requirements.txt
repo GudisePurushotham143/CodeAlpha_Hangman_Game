@@ -1,0 +1,7 @@
+# No external libraries required
+pandas
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
